@@ -26,4 +26,4 @@ I like figuring out why things don't work. I spent 4+ years in customer and tech
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/florescodes) · florescodes@proton.me
+[X](https://x.com/florescodes) · [GitHub](https://github.com/floressudo) · [Merit Pages](https://meritpages.com/florescodes) · florescodes@proton.me
