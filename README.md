@@ -1,8 +1,8 @@
-# Hi, I'm Alberto 👋
+# Adalberto (Alberto) Flores
 
-Computer Science student at **Southern New Hampshire University** (B.S., Software Engineering concentration, expected November 2027), based in San Antonio, TX.
+CS student at **Southern New Hampshire University** (B.S., Software Engineering concentration, graduating November 2027). San Antonio, TX.
 
-I like figuring out why things don't work. I spent 4+ years in customer and technical support at Spectrum, kept production data accurate at Tower Semiconductor, and ticketed vehicle and software errors as a safety driver on Waymo vehicles with Transdev. Now I'm building that troubleshooting habit into software: testing edge cases, validating input, and writing code that fails loudly instead of quietly.
+I've always wanted to know how things work: networks, machines, software. I spent 4+ years in technical support at Spectrum, tracked production data at Tower Semiconductor, and most recently worked as a safety driver on Waymo's autonomous vehicles with Transdev, writing up vehicle and software issues for engineers to review. Now I'm learning to build the software side myself.
 
 - 🎓 President's List, Summer 2026 · NSLS Member · ISC2 Candidate
 - 🌎 Bilingual: English and Spanish
