@@ -1,66 +1,29 @@
-<p align="center">
-  <a href="https://github.com/devzilence">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Alberto" alt="Hello! I'm Alberto" />
-  </a>
-</p>
+# Hi, I'm Alberto 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58a6ff&center=true&vCenter=true&width=900&height=40&lines=B.S.+in+Computer+Science+(Software+Engineering)+%40+SNHU;Focus%3A+System+Design+%7C+Software+Security+%7C+APIs;Building+Scalable+Backend+Systems+from+Scratch;Engineering+with+Java%2C+C%2B%2B%2C+Python+%26+Databases" alt="Typing headlines" />
-</p>
+Computer Science student at **Southern New Hampshire University** (B.S., Software Engineering concentration, expected November 2027), based in San Antonio, TX.
 
-### 🚀 About Me
+I like figuring out why things don't work. I spent 4+ years in customer and technical support at Spectrum, kept production data accurate at Tower Semiconductor, and ticketed vehicle and software errors as a safety driver on Waymo vehicles with Transdev. Now I'm building that troubleshooting habit into software: testing edge cases, validating input, and writing code that fails loudly instead of quietly.
 
-- 🏗️ **Focus:** **System Design & API Architecture** — designing reliable, maintainable software and scalable services from the ground up.  
-- 🛡️ **Security:** Applying secure coding principles, threat modeling, and defensive architecture (**CS 305**).  
-- ⚙️ **Foundations:** Deep-diving into algorithmic optimization, time/space complexity, and data structures (**CS 300**).  
-- 💬 **Ask Me About:** Software architecture patterns, database design, or backend development.  
-- 📍 **Location:** San Antonio, TX  
+- 🎓 President's List, Summer 2026 · NSLS Member · ISC2 Candidate
+- 🌎 Bilingual: English and Spanish
+- 🌱 Currently working through [Full Stack Open](https://github.com/floressudo/fullstackopen) (React)
 
-### 🛠️ Tech Stack
+## Projects
 
-**Languages**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,bash&theme=dark" alt="Languages" />
-  </a>
-</p>
+| Project | What it shows | Link |
+|---|---|---|
+| **Contact Service** (Java, JUnit 5) | Constructor-level validation and 32 unit tests covering valid, invalid, and boundary cases | [CS-320](https://github.com/floressudo/SNHU-CS-Portfolio/tree/main/CS-320) |
+| **Corner Grocer Item Tracker** (C++) | File I/O, `std::map` frequency counting, menu-driven console, text histogram | [CS-210](https://github.com/floressudo/SNHU-CS-Portfolio/tree/main/CS-210) |
+| **System design docs** (UML, Agile) | Gaming Room architecture, DriverPass requirements & UML, SNHU Travel sprint retrospective | [Portfolio](https://github.com/floressudo/SNHU-CS-Portfolio) |
+| **Full Stack Open** (React, Vite) | Course exercises in progress | [fullstackopen](https://github.com/floressudo/fullstackopen) |
 
-**Tools & Environment**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,linux&theme=dark" alt="Tools & Environment" />
-  </a>
-</p>
+## Skills
 
-**Libraries & Additional Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-</p>
+**In my code:** Java · C++ · JUnit 5 · JavaScript (React, Vite, beginner) · Git · GitHub · Visual Studio
+**Design & process:** UML · system design documents · Agile/Scrum
+**From my work experience:** Tier 1 technical support · network troubleshooting (TCP/IP, DNS, DHCP) · ticketing systems (ServiceNow, Jira Service Desk) · Windows, Windows Server (Active Directory, GPOs), macOS, Linux (Ubuntu) · incident documentation
+**Learning:** Python (coursework fundamentals)
 
-### 🔗 Connect With Me
+## Contact
 
-<p align="left">
-  <a href="https://linkedin.com/in/florescodes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://meritpages.com/florescodes"><img src="https://img.shields.io/badge/Merit-008080?style=flat-square&logo=academia&logoColor=white" alt="Merit Pages" /></a>
-  <a href="https://x.com/florescodes"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/florescodes_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://dev.to/florescodes"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-</p>
-
-### 📌 Featured Project
-
-<p align="center">
-  <a href="https://github.com/devzilence/SNHU-CS-Portfolio">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=devzilence&repo=SNHU-CS-Portfolio&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000" alt="SNHU-CS-Portfolio" />
-  </a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=devzilence&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=devzilence&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/florescodes) · florescodes@proton.me
